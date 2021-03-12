@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614645298 source:/home/linux/Desktop/dataStructureAndAlgoridomLab/ClassAndObjectLab_2/dynarr/dynArr.cpp
+	"dynArr.h"
+	<iostream>
+
+1614645224 /home/linux/Desktop/dataStructureAndAlgoridomLab/ClassAndObjectLab_2/dynarr/dynArr.h
+
