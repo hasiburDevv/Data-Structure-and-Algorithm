@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616108073 source:/home/linux/My folder/data&algo_lab/Template_Class_And_Operator_Overloading_LAB03/Complex/Complex.cpp
+	"Complex.h"
+	<iostream>
+
+1616107406 /home/linux/My folder/data&algo_lab/Template_Class_And_Operator_Overloading_LAB03/Complex/Complex.h
+
+1616108321 source:/home/linux/My folder/data&algo_lab/Template_Class_And_Operator_Overloading_LAB03/Complex/main.cpp
+	<iostream>
+	"Complex.h"
+
