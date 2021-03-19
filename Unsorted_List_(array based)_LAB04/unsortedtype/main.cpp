@@ -60,5 +60,17 @@ int main() {
     ut.DeleteItem(6);
     Print(ut);
 
+// 5 7 6 9
+// 4
+// 5 7 6 9 1
+// Item is not found
+// Item is found
+// Item is found
+// Item is not found
+// List is full
+// List is not full
+// 9 7 6
+// 9 7
+
     return 0;
 }
