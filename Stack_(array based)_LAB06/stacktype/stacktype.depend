@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616821562 source:/home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/stacktype/stacktype.cpp
+	"stacktype.h"
+
+1616824449 /home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/stacktype/stacktype.h
+
+1616863804 source:/home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/stacktype/main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1616821562 /home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/stacktype/stacktype.cpp
+	"stacktype.h"
+

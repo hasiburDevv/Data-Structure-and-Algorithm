@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616828658 source:/home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/parentheses_task02/parentheses_task02.cpp
+	"parentheses_task02.h"
+
+1616863929 /home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/parentheses_task02/parentheses_task02.h
+
+1616866542 source:/home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/parentheses_task02/main.cpp
+	<iostream>
+	"parentheses_task02.cpp"
+
+1616828658 /home/linux/My folder/data&algo_lab/Stack_(array based)_LAB06/parentheses_task02/parentheses_task02.cpp
+	"parentheses_task02.h"
+
